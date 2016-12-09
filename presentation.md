@@ -1,7 +1,7 @@
 # [fit] :wave:
 # My name is @folone
 
-![](https://cdn.eyeem.com/thumb/900/900/875ca603aa93985dfba529d82407d198ef9cad3d?highRes=true)
+![](https://cdn.eyeem.com/thumb/921cbec0c6081762b3ee7f5dcc85587c0b5716e1-1463689016783/3900/3900?highRes=true)
 
 [https://github.com/folone/fby](https://github.com/folone/fby)
 
@@ -21,7 +21,7 @@
 * >135M tracks (including content from majors: Sony/Universal/Warner)
 * ~180M monthly active users
 
-![left](https://cdn.eyeem.com/thumb/900/900/72a3ad530c5b60e4b6077536aecce56cbdf526c0?highRes=true)
+![left](https://cdn.eyeem.com/thumb/c23be843844f1f0129727da2ed2f0a3991ca1347-1463689289498/3900/3900)
 
 ^ quite unique: major labes and dark underground
 ^ 4x spotify audio (>1PB vs >5PB)
@@ -97,6 +97,8 @@
 ---
 
 # [fit] Peano numbers!
+
+![](https://cdn.eyeem.com/thumb/21316311450d6f2cf8bd1013d54ee1af7b66ec50-1463689008227/3900/3900)
 
 ---
 
@@ -180,6 +182,8 @@
 
 # [fit] HLists!
 
+![](https://cdn.eyeem.com/thumb/1ff38a057aadb82c1dfc1cbe16ede1b9e7ffac6a-1463689036886/3900/3900)
+
 ---
 
 ```scala
@@ -217,6 +221,8 @@
 # [fit] Shapeless!
 https://github.com/milessabin/shapeless
 
+![](https://cdn.eyeem.com/thumb/2bf9873154a6d5eafe53620196965235f236b07d-1463689176082/3900/3900)
+
 ---
 
 ![](https://c2.staticflickr.com/4/3495/3261725397_c68586ccf4_b.jpg)
@@ -226,14 +232,20 @@ https://github.com/milessabin/shapeless
 # [fit] Typelog!
 https://github.com/densh/typelog
 
+![](https://cdn.eyeem.com/thumb/84bc8c92672a53e443d380491e7ce51377dfaae8-1463689348089/3900/3900)
+
 ---
 
 # [fit] Json
+
+![](https://cdn.eyeem.com/thumb/e0e19780f504d64d363429f70cd1261a398a5a6b-1463689172111/3900/3900)
 
 ---
 
 
 # [fit] Danke!
+
+![](https://cdn.eyeem.com/thumb/50eb5ca935272637b24bebb4bae05883f2046961-1463689144923/3900/3900)
 
 @folone
 
