@@ -225,6 +225,8 @@ https://github.com/milessabin/shapeless
 
 ---
 
+# There's a Prolog in your Scala
+
 ![](https://c2.staticflickr.com/4/3495/3261725397_c68586ccf4_b.jpg)
 
 ---
@@ -245,7 +247,7 @@ https://github.com/densh/typelog
 
 # [fit] Danke!
 
-![](https://cdn.eyeem.com/thumb/50eb5ca935272637b24bebb4bae05883f2046961-1463689144923/3900/3900)
+![](https://cdn.eyeem.com/thumb/d0ccd63c8783a52687192b13110678fae005326f-1463689086504/3900/3900)
 
 @folone
 
